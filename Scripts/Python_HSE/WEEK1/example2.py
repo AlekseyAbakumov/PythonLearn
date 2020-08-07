@@ -1,0 +1,7 @@
+print(11 + 6)
+print(11 - 6)
+print(11 * 6)
+print(11 ** 6)
+print(11 // 6)
+print(11 / 6)
+print(11 % 6)
